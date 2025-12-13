@@ -11,5 +11,5 @@ I am passionate about bridging the gap between **Sharia Standards (AAOIFI)** and
 - [**Murabaha Blockchain Audit System**](https://github.com/benslimanh/Murabaha_Blockchain_Audit) - An automated tool to enforce sequence compliance in Islamic banking.
 
 📫 **Let's Connect:**
-- [LinkedIn Profile](www.linkedin.com/in/bensliman-hamza)
-- [ResearchGate](www.researchgate.net/profile/Hamza-Bensliman)
+- [LinkedIn Profile](https://www.linkedin.com/in/bensliman-hamza)
+- [ResearchGate](https://www.researchgate.net/profile/Hamza-Bensliman)
