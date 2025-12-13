@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Hamza Bensliman 👋
+**Research Student in Management & Finance | Aspiring Islamic FinTech Specialist**
 
-<!--
-**benslimanh/benslimanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about bridging the gap between **Sharia Standards (AAOIFI)** and **Modern Technology** (Blockchain & AI).
 
-Here are some ideas to get you started:
+🔭 **Current Focus:**
+- Developing automated Sharia Audit systems.
+- Exploring Smart Contracts for Murabaha transactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Featured Project:**
+- [**Murabaha Blockchain Audit System**](https://github.com/benslimanh/Murabaha_Blockchain_Audit) - An automated tool to enforce sequence compliance in Islamic banking.
+
+📫 **Let's Connect:**
+- [LinkedIn Profile](www.linkedin.com/in/bensliman-hamza)
+- [ResearchGate](www.researchgate.net/profile/Hamza-Bensliman)
