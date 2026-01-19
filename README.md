@@ -1,50 +1,60 @@
 ### Hi there, I'm Hamza Bensliman 👋
-**Quantitative Finance Student | Aspiring Islamic FinTech Specialist**
+**Blockchain Founder | Finance Researcher | Rust Developer**
 
-I am passionate about bridging the gap between **Sharia Standards (AAOIFI)** and **Modern Technology** (Data Science, Blockchain & AI). My work focuses on using Python to solve financial problems and automate compliance.
+I operate at the intersection of **Islamic Finance (Fiqh)** and **Deep Tech**.
+I am the founder of **Mizan**, a protocol building the infrastructure for Sharia-compliant Real World Assets (RWA) on the blockchain. My mission is to transition the $3 Trillion Islamic Finance industry from "Paper" to "Protocol".
 
 🔭 **Current Focus:**
-- Developing quantitative models for Islamic Equity Funds.
-- Exploring Smart Contracts for automated Murabaha auditing.
-- Building financial dashboards for risk management.
+- **Building Mizan:** A state-dependent primitive for automated Murabaha financing using **Rust** (Stellar/Soroban).
+- **Bridging Ecosystems:** Researching interoperability between EVM (Solidity) and Wasm-based chains for institutional DeFi.
+- **Academic Research:** Publishing papers on the validation of FinTech solutions against AAOIFI standards.
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## 🛠️ Tech Stack & Arsenal
 
-| Category | Skills |
+| Domain | Technologies |
 | :--- | :--- |
-| **Programming** | 🐍 Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`), LaTeX |
-| **Finance** | 📈 Financial Modeling, Portfolio Optimization, ESG Analysis, Risk Management |
-| **Islamic Finance** | ⚖️ AAOIFI Standards, Murabaha Structuring, Sukuk Analysis |
-| **Tools** | ☁️ Google Colab, Power BI, Streamlit, Git/GitHub |
+| **Blockchain Engineering** | 🦀 **Rust** (Soroban/Stellar), Smart Contracts, DeFi Primitives |
+| **Quantitative Finance** | 🐍 **Python** (`Pandas`, `NumPy`, `SciPy`), Algorithmic Trading |
+| **Domain Expertise** | ⚖️ **Islamic Finance**, AAOIFI Compliance, RWA Tokenization |
+| **Tools & Cloud** | ☁️ Git, Linux, Docker, LaTeX (Academic Writing) |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship Project
+
+### 🏆 [Mizan Protocol ( Stealth / Pre-Seed )](https://github.com/bensliman-hamza)
+> *The "Uniswap" for Islamic Corporate Banking.*
+* **Mission:** Solving the "Compliance-Scalability Paradox" in Islamic Banking.
+* **Tech:** Built with **Rust** on the Stellar Network (Soroban).
+* **Innovation:** Implements a programmatic "Constructive Possession" (Qabd) verification system, ensuring every transaction is mathematically and religiously valid without manual back-office work.
+* **Status:** MVP phase (Seeking Seed Funding).
+
+---
+
+## 📚 Selected Research & Quant Work
 
 ### 1. [🌍 Green vs. Brown: ESG Quantitative Analysis](https://github.com/benslimanh/Green-Finance)
-> *Do ethical investments yield better returns?*
-* **Type:** Quantitative Finance / ESG.
-* **Tech Stack:** Python, yfinance, Seaborn (Heatmaps).
-* **Key Finding:** Analyzed 5-year data of **Clean Energy (ICLN)** vs. **Fossil Fuels (XLE)**. Discovered that Green Energy offers high growth potential but higher volatility, while Fossil Fuels provide a hedge against inflation.
-* **Skills:** Correlation Matrices, Volatility Analysis, Data Normalization.
+> *Does ethical investing cost alpha?*
+* **Type:** Financial Engineering.
+* **Stack:** Python, yfinance, Volatility Analysis.
+* **Insight:** Conducted a 5-year comparative study of Clean Energy (ICLN) vs. Fossil Fuels (XLE), proving that while Green assets offer higher beta (growth), Fossil Fuels currently act as a necessary inflation hedge.
 
-### 2. [📊 Islamic Banking Performance Dashboard](https://github.com/benslimanh/Islamic_Finance_Banking)
-> *A visual health-check of top GCC Islamic Banks.*
-* **Type:** Business Intelligence (BI) / Risk Analysis.
-* **Tech Stack:** Python (Matplotlib), Programmatic Dashboarding.
-* **Scope:** Comparative analysis of **Al Rajhi (KSA)**, **KFH (Kuwait)**, and **DIB (UAE)** covering Profitability, Deposits, and Non-Performing Loans (NPL).
-* **Skills:** KPI Tracking, Data Visualization, Credit Risk Assessment.
-
-### 3. [🔗 Murabaha Blockchain Audit System](https://github.com/benslimanh/Murabaha_Blockchain_Audit)
-> *Automating trust in Islamic contracts.*
-* **Type:** FinTech / Blockchain.
-* **Tech Stack:** Python, Streamlit, Cloud Integration.
-* **Description:** An automated tool to enforce the correct Sharia sequence (Wa'd → Qabd → Sale) to prevent "selling what you do not own."
+### 2. [📊 Islamic Banking Intelligence Dashboard](https://github.com/benslimanh/Islamic_Finance_Banking)
+> *Visualizing the health of GCC's financial giants.*
+* **Type:** Data Science / Risk Analysis.
+* **Stack:** Python, Matplotlib.
+* **Scope:** Analyzed liquidity and credit risk metrics (NPLs) for **Al Rajhi Bank**, **KFH**, and **DIB**, providing data-driven insights into the stability of Islamic windows vs. standalone Islamic banks.
 
 ---
 
-## 📫 Let's Connect
-* [**LinkedIn Profile**](https://www.linkedin.com/in/bensliman-hamza)
-* [**ResearchGate**](https://www.researchgate.net/profile/Hamza-Bensliman)
+## ✍️ Publications & Thought Leadership
+* **Research Paper:** *"[Title of your paper]"* (Recommended on ResearchGate).
+* **University Rep:** Representing USMBA in national Deep Tech & Innovation challenges.
+
+---
+
+## 📫 Connect with Me
+* 💼 [**LinkedIn**](https://www.linkedin.com/in/bensliman-hamza) - *Let's talk RWA & Fintech.*
+* 🎓 [**ResearchGate**](https://www.researchgate.net/profile/Hamza-Bensliman) - *Read my latest findings.*
