@@ -50,8 +50,7 @@ I am the founder of **Mizan**, a protocol building the infrastructure for Sharia
 ---
 
 ## ✍️ Publications & Thought Leadership
-* **Research Paper:** *"[Title of your paper]"* (Recommended on ResearchGate).
-* **University Rep:** Representing USMBA in national Deep Tech & Innovation challenges.
+* **Research Paper:** *"[https://www.researchgate.net/publication/398820878_Automating_Trust_A_Technical_Framework_for_Murabaha_using_Blockchain_and_Cloud_Integration]"* (Recommended on ResearchGate).
 
 ---
 
